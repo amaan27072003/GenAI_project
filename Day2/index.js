@@ -9,7 +9,7 @@ const asyncExecute = promisify(exec);
 
 const History = [];
 const ai = new GoogleGenAI({
-  apiKey: "AIzaSyBkjF5AF5hl2i3mtq4r5dtVBnt-qqG0QhM",
+  apiKey: "AIzaSyCJaqRx7BV2DMJb8_BSyw_NIOCPtnrgtq0",
 });
 
 // Creating a tool which excecute the terminal command or shell command.
